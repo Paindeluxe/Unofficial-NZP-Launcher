@@ -4,11 +4,16 @@
 > _Thank you for using my Unofficial NZP Launcher. I hope you will enjoy using this as much as I enjoyed making it!_
 
 ## Changelog:
-### Current Version: 1.1.0
+### Current Version: 1.2.0
 
 From Version 1.0.0 to -> Version 1.1.0
 
 - Added CPU Architecture Detection to avoid Downloading an Unsupported Version of NZP. (Lacking ARM Support.)
+
+From Version 1.1.0 to -> Version 1.2.0
+
+- Finished CPU Architecture Detection to also support ARM Devices.
+- Minor Code Cleanup to help Readability.
 
 ## Supported Platforms/Architectures:
 __This Launcher currently only Supports Linux__. But Windows, and maybe even MacOS Support is planned to be added in the Future!
@@ -32,4 +37,3 @@ I promise that I won't make the MacOS Version just a Web App.
 4. The NZP Game Files are not isolated from the Launcher's Directory, making it look a bit Messy.
 5. While this Auto-Update NZP, it does not Self-Update itself yet! This is pretty stupid, though some see it as a Security Risk.
 6. This Launcher is lacking a way to easily change Settings, while also being User Friendly. 
-7. The CPU Architecture Detector lacks ARM Support as I don't know how to make longer If Else Loops. (I am also very Tired as I wrote through the entire Night, it is 5:30 now...)

@@ -20,6 +20,11 @@ I promise that I won't make the MacOS Version just a Web App.
 - The "modifications" Folder is used to keep certain Items between Updates.
 - Please use the "modifications" Folder over "nzp" for installing Mods/Custom Maps as the current Process will overwrite everything in NZP in every Update. (That might be bad for SSDs but who knows...)
 
+## Features:
+1. It has Mod Support
+2. It Automatically Updates the Game, every Day (Can be changed once I add Settings.)
+3. It installs the correct NZP Version based off of the CPU Architecture
+
 ## Current Flaws:
 1. This Launcher Version doesn't adapt to changes in the Folder Structure.
 2. It felt a bit Archaic writing a few Lines of this Script (Like a unused Section about deleting the entire "nzp" Folder to avoid possible changes in the Folder Structure.

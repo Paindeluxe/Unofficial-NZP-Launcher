@@ -64,7 +64,7 @@ then
     fi
 else 
     echo -e "\033[32mNZP is not Installed or it got moved. Now Installing NZP!\033[0m"
-    echo "By the Way, could you please read the "README.txt" if you haven't already?"
+    echo "By the Way, could you please read the "README.md" if you haven't already?"
     # Preparing for the download
     echo -e "\033[31mRemoving the "temp" Folder, to avoid Errors with incomplete Downloads.\033[0m"
     rm -r ./temp
